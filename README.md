@@ -1,8 +1,8 @@
-# 🚗 Driver Monitoring AI
+# Driver Monitoring AI
 
 Welcome to the Driver Monitoring AI project!
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to set up and run the project:
 
