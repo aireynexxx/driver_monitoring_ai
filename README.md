@@ -15,7 +15,7 @@ This project is a real-time AI-based **Driver Monitoring System** built to enhan
 - **Fatigue Detection (Yawning)**  
   Detects repeated yawning as a sign of drowsiness or fatigue.
 
-  ## 📸 Requirements
+  ## Requirements
 
 - Raspberry Pi (tested on Pi 5)  
 - Pi Camera module  
