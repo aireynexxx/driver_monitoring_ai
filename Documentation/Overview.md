@@ -61,10 +61,7 @@ The system is designed to be:
 - **Tkinter** – GUI alerts  
 - **Picamera2** – Raspberry Pi camera interface  
 
----
 
-##  System Architecture  
-*(Insert Architecture Diagram Here)*
 
 ---
 
