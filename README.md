@@ -10,12 +10,12 @@ This project is a real-time AI-based **Driver Monitoring System** built to enhan
   Detects when the driver is using a mobile phone while driving.
 
 -  **Sleep Detection**  
-  Monitors eye aspect ratio (EAR) to determine if the driver has fallen asleep.
+  Detects if the driver has fallen asleep.
 
 - **Fatigue Detection (Yawning)**  
   Detects repeated yawning as a sign of drowsiness or fatigue.
 
-  ## Requirements
+ ## Requirements
 
 - Raspberry Pi (tested on Pi 5)  
 - Pi Camera module  
