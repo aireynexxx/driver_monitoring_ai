@@ -4,16 +4,30 @@ Welcome to the Driver Monitoring AI project!
 
 This project is a real-time AI-based **Driver Monitoring System** built to enhance road safety by detecting driver distraction and fatigue. It is designed to run on a Raspberry Pi using a camera module and leverages **MediaPipe**, **TensorFlow Lite**, and **OpenCV** for intelligent monitoring.
 
-## 🚗 Features
+##  Features
 
-- 📱 **Phone Usage Detection**  
+- 📱**Phone Usage Detection**  
   Detects when the driver is using a mobile phone while driving.
 
-- 😴 **Sleep Detection**  
+-  **Sleep Detection**  
   Monitors eye aspect ratio (EAR) to determine if the driver has fallen asleep.
 
-- 🥱 **Fatigue Detection (Yawning)**  
+- **Fatigue Detection (Yawning)**  
   Detects repeated yawning as a sign of drowsiness or fatigue.
+
+  ## 📸 Requirements
+
+- Raspberry Pi (tested on Pi 5)  
+- Pi Camera module  
+- Python 3
+
+## 📄 License
+
+This project is licensed under the **Apache 2.0 License** – see the [LICENSE](LICENSE) file for details.
+
+## Disclaimer
+
+This is a proof-of-concept project and should **not be used as a sole safety mechanism**. Always ensure multiple layers of road safety measures are in place.
 
 ## Getting Started
 
