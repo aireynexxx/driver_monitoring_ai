@@ -6,7 +6,7 @@ This project is a real-time AI-based **Driver Monitoring System** built to enhan
 
 ##  Features
 
-- 📱**Phone Usage Detection**  
+- **Phone Usage Detection**  
   Detects when the driver is using a mobile phone while driving.
 
 -  **Sleep Detection**  
@@ -21,7 +21,7 @@ This project is a real-time AI-based **Driver Monitoring System** built to enhan
 - Pi Camera module  
 - Python 3
 
-## 📄 License
+##  License
 
 This project is licensed under the **Apache 2.0 License** – see the [LICENSE](LICENSE) file for details.
 
