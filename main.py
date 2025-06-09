@@ -135,7 +135,7 @@ try:
 				mouth_open_dist = np.linalg.norm(np.array(upper_lip) - np.array(lower_lip))
 				yawn_thresh = 20
 
-				if mouth_open_dist > yawn_thresh and mouth_open < 50:
+				if mouth_open_dist > yawn_thresh and mouth_open < 25:
 					yawn_status = 'Not Yawning'
 					yawn_color = (255, 0, 0)
 
