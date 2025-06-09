@@ -9,7 +9,7 @@ Follow these steps to set up and run the project:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/driver_monitoring_ai.git
+   git clone https://github.com/aireynexxx/driver_monitoring_ai.git
    cd driver_monitoring_ai
    ```
 
