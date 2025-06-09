@@ -1,14 +1,51 @@
-# driver_monitoring_ai
-Welcome to the README:
+# 🚗 Driver Monitoring AI
 
-Step 1. Clone Repo
+Welcome to the Driver Monitoring AI project!
 
-Step 2. make new python virtual environment
+## 🚀 Getting Started
 
-Step 3. activate virtual environment
+Follow these steps to set up and run the project:
 
-Step 4. While in virtual environment, pip install -r requirements.txt
+1. **Clone the repository**
 
-Step 5. Wait while pip installs everything
+   ```bash
+   git clone https://github.com/your-username/driver_monitoring_ai.git
+   cd driver_monitoring_ai
+   ```
 
-Step 6. While in virtual environment, python3 main.py
+2. **Create a new Python virtual environment**
+
+   ```bash
+   python3 -m venv venv
+   ```
+
+3. **Activate the virtual environment**
+
+   * On macOS/Linux:
+
+     ```bash
+     source venv/bin/activate
+     ```
+   * On Windows:
+
+     ```bash
+     venv\Scripts\activate
+     ```
+
+4. **Install dependencies**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+5. **Wait for the installation to complete.**
+
+6. **Run the application**
+
+   ```bash
+   python3 main.py
+   ```
+
+---
+
+Happy coding! ✨
